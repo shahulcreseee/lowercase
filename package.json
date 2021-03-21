@@ -1,0 +1,18 @@
+{
+    "name": "lowercase-key",
+    "version": "1.0.0",
+    "description": "Change the given input to the lower case based on the method called.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "lowercase",
+        "lower-case",
+        "keys",
+        "arrays",
+        "object"
+    ],
+    "author": "Shahul Hameed Buhari",
+    "license": "MIT"
+}
