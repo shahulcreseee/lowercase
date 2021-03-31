@@ -1,3 +1,3 @@
-const Lower = require('./lowercase.js');
+const Lower = require('./lower-case.js');
 
-module.exports = { Lower };
+module.exports = Lower;

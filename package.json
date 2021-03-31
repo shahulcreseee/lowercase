@@ -1,5 +1,5 @@
 {
-    "name": "lowercase-key",
+    "name": "lower-cases",
     "version": "1.0.0",
     "description": "Change the given input to the lower case based on the method called.",
     "main": "index.js",
@@ -11,7 +11,8 @@
         "lower-case",
         "keys",
         "arrays",
-        "object"
+        "object",
+        "lower-cases"
     ],
     "author": "Shahul Hameed Buhari",
     "license": "MIT"
