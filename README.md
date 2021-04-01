@@ -11,7 +11,7 @@ npm install lower-cases --save
 ## Usage
 
 ```js
-import { Lower } from "lower-cases";
+const Lower= require('lower-cases');
 ```
 
 #### [lowercase]
