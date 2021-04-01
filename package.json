@@ -15,5 +15,11 @@
         "lower-cases"
     ],
     "author": "Shahul Hameed Buhari",
+    "homepage": "https://github.com/shahulcreseee/lowercase/",
+    "bugs": "https://github.com/shahulcreseee/lowercase/issues",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com:shahulcreseee/lowercase.git"
+    },
     "license": "MIT"
 }
