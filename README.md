@@ -5,13 +5,13 @@
 ## Installation
 
 ```
-npm install lower-case --save
+npm install lower-cases --save
 ```
 
 ## Usage
 
 ```js
-import { Lower } from "lower-case";
+import { Lower } from "lower-cases";
 ```
 
 #### [lowercase]
