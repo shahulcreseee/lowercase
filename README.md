@@ -2,6 +2,12 @@
 
 > Convert String in  Object,Array or Plain String to  `lowercase`.
 
+## Sponsors
+
+If you value my work and [many other of my](https://github.com/shahulcreseee/) Open-Source projects to be continuously improved
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abuf)
+
 ## Installation
 
 ```
